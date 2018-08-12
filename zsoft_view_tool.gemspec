@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{View tools such as copyright}
   spec.description   = %q{Generates HTML for Rails apps}
-  spec.homepage      = "www.zsoft.me"
+  spec.homepage      = "http://www.zsoft.me"
 
 
   # Specify which files should be added to the gem when it is released.
